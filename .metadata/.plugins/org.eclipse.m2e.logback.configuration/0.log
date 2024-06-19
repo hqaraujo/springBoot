@@ -599,3 +599,4 @@ Caused by: java.lang.Exception: File not found: C:\Nova pasta\pom.xml.
 2024-06-18 17:25:32,483 [Worker-2: Launching springProjeto - SpringProjetoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-06-18 17:25:32,523 [Worker-2: Launching springProjeto - SpringProjetoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-06-18 17:25:32,534 [Worker-2: Launching springProjeto - SpringProjetoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Henrique Araújo\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\springProjeto\src\test\resources
+2024-06-19 11:18:10,125 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
